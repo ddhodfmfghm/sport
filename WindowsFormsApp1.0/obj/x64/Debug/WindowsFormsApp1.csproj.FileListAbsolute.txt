@@ -1,0 +1,184 @@
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\bin\x64\Debug\Microsoft Access База данных.accdb
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Абонементы.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Запрос1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Запрос2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Запрос3.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Посещения.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Услуги.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Главная.resources
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Главная.resources
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Абонементы.resources
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Запрос1.resources
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Запрос2.resources
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Запрос3.resources
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Посещения.resources
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Услуги.resources
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+I:\06.02\WindowsFormsApp1\bin\x64\Debug\Microsoft Access База данных.accdb
+I:\06.02\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+I:\06.02\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+I:\06.02\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+I:\06.02\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.EditUserDialog.resources
+I:\06.02\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp1.exe.config
+I:\06.02\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp1.exe
+I:\06.02\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp1.pdb
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.EditUserDialog.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.RegisterForm.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Главная.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Абонементы.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Запрос1.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Запрос2.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Запрос3.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Посещения.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Услуги.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.exe
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.pdb
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.UserManagement.resources
+I:\06.02\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Login.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.EditUserDialog.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Login.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.RegisterForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.UserManagement.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Главная.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Абонементы.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Запрос1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Запрос2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Запрос3.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Посещения.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.Услуги.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31, 35\06.02\Макаров\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp1.pdb
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.EditUserDialog.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Login.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.RegisterForm.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.UserManagement.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Главная.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Абонементы.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Запрос1.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Запрос2.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Запрос3.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Посещения.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Услуги.resources
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.exe
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.pdb
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\bin\x64\Debug\WindowsFormsApp1.exe.config
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\bin\x64\Debug\WindowsFormsApp1.exe
+I:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\bin\x64\Debug\WindowsFormsApp1.pdb
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\bin\x64\Debug\WindowsFormsApp1.exe.config
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\bin\x64\Debug\WindowsFormsApp1.exe
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\bin\x64\Debug\WindowsFormsApp1.pdb
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.EditUserDialog.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Login.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.RegisterForm.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.UserManagement.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Главная.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Абонементы.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Запрос1.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Запрос2.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Запрос3.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Посещения.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Услуги.resources
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.exe
+E:\Новая папка (2)\06.02\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1.1\bin\x64\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1.1\bin\x64\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1.1\bin\x64\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.EditUserDialog.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.Login.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.RegisterForm.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.UserManagement.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.Главная.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.Абонементы.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.Запрос1.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.Запрос2.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.Запрос3.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.Посещения.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.Услуги.resources
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1.1\obj\x64\Debug\WindowsFormsApp1.pdb
+I:\WindowsFormsApp1.1 — копия\bin\x64\Debug\WindowsFormsApp1.exe.config
+I:\WindowsFormsApp1.1 — копия\bin\x64\Debug\WindowsFormsApp1.exe
+I:\WindowsFormsApp1.1 — копия\bin\x64\Debug\WindowsFormsApp1.pdb
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.EditUserDialog.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Login.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.RegisterForm.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.UserManagement.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Главная.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Абонементы.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Запрос1.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Запрос2.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Запрос3.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Посещения.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.Услуги.resources
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.exe
+I:\WindowsFormsApp1.1 — копия\obj\x64\Debug\WindowsFormsApp1.pdb
+I:\WindowsFormsApp1.0\bin\x64\Debug\WindowsFormsApp1.exe.config
+I:\WindowsFormsApp1.0\bin\x64\Debug\WindowsFormsApp1.exe
+I:\WindowsFormsApp1.0\bin\x64\Debug\WindowsFormsApp1.pdb
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.EditUserDialog.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.Login.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.RegisterForm.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.UserManagement.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.Главная.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.Абонементы.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.Запрос1.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.Запрос2.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.Запрос3.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.Посещения.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.Услуги.resources
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.exe
+I:\WindowsFormsApp1.0\obj\x64\Debug\WindowsFormsApp1.pdb
